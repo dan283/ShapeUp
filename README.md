@@ -41,7 +41,8 @@ Simple flow chart for the update process:
 
 More detailed flow chart on how the corrective update process:
 
-![Untitled Diagram(7)](https://user-images.githubusercontent.com/78473045/207978133-cc05a728-c4c4-4e97-89f6-abdedfb2b954.jpg)
+![Untitled Diagram(8)](https://user-images.githubusercontent.com/78473045/208491537-5fd8cd7e-8f50-4eea-aa75-04c3ce108637.jpg)
+
 
 More detailed flow chart on how to get a corrective delta difference between a raw combo shape and a tweaked corrective vie shape keys:
 
