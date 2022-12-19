@@ -18,14 +18,19 @@ How it looks so far -
 ![Screenshot 2022-12-19 100918](https://user-images.githubusercontent.com/78473045/208319836-c3cfef4a-6deb-40aa-b4a2-8fc225071fee.png)
 
 TODO:
-- clean up/re write code to be more readable and organized as it's becoming a bit messy
+- clean up/re write code to be more readable and organized as it's becoming a bit messy:
+  - re-write shape update with new logic
+  - re-write shape export with new logic
+  - delete unnecessary code and re-factor classes carried over
 - filter the list on the left to only display hero shapes, re-sort alphabetically. Alternatively create a filtered list without values, like the one on the right but only with hero shapes, and different menu with the complete list with values.
 - explore other export options, like alembic
 - create a build function that would build a puppet based on selected shapes and their naming
+  - while getting a dedicated button, this willl be covered by the new update logic. 
 - explore the possibility of updating multiple shapes at once based on naming
+  - while getting a dedicated button, this willl be covered by the new update logic. 
 - explore by state updates/quickset
 - explore freezing shapes
-- explore multi selection
+- explore multi selection inside the UI List
 
 
 -----------
