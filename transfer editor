@@ -1,0 +1,13 @@
+Transfers shape keys regardless of form and topology, within reason.
+
+- a fixed sparse proxy mesh with eyes, mouth, nasolabial and ears somewhat defined
+- bone per vertex
+- auto weight
+- snap
+- wrap
+- export shape by shape
+- import & build
+
+Explore modal operators and a simplified gui. Fool proof but not junior proof would be the goal.
+
+This concept could be used for a dedicated live relax tool.
