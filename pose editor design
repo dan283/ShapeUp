@@ -1,0 +1,6 @@
+Pose editor, sub section of the shape editor. Stores and sets poses based on current shape key states. By selecting a pose, the pose, and with that the shape key states, are set.
+
+- A UI list with names of stored poses.
+- A button for adding a pose.
+- A button for removing a pose.
+- A slider to blend the pose to neutral.
