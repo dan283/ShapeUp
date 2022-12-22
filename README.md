@@ -65,6 +65,8 @@ These do look weird if there are correctives as well as inbetweens, the later ha
 
 (((s2>0) * (s1)) + ((s1>0) * (s2)) )/2
 
+Actually scratch that. Doesn't look weierd, at least sin(pi/2 * s1)*sin(pi/2 * s2) beats getting an average with value pairs like 0.01 - 0.99
+
 -------------
 
 More detailed flow chart on how the inbetween update process:
