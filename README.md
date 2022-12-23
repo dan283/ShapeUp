@@ -2,7 +2,7 @@ ShapeUp
 
 Goal is a facial shape manager for Blender, for shapekey based facial rigs.
 
-So far I'm adding functions I'll need down the road. I also added a first, more or less functioning prototype.
+Refactoring of the functioning prototype is in progress.
 
 In the end it should handle correctives and inbetweens based on their naming, as well as have filtered UI lists, and handle import and export of shapes.
 
@@ -32,6 +32,11 @@ TODO:
 - explore by state updates/quickset
 - explore freezing shapes
 - explore multi selection inside the UI List
+
+- extras like eye/teeth connect, jaw extract, keyline import, face set import and L-R split and combine
+- a transfer too based on a sparse alignment mesh and a layered joint system
+- pose editor for saving, nameing and mixing poses
+- animation menu for importing and managing QC roms
 
 
 -----------
