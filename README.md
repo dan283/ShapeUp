@@ -1,5 +1,6 @@
-# shapekey_experiments
-Goal is a facial shape manager for Blender, for shapekey based facial rigs. One line at a time.
+ShapeUp
+
+Goal is a facial shape manager for Blender, for shapekey based facial rigs.
 
 So far I'm adding functions I'll need down the road. I also added a first, more or less functioning prototype.
 
