@@ -20,22 +20,41 @@ How it looks so far -
 
 TODO:
 - clean up/re write code to be more readable and organized as it's becoming a bit messy:
-  - re-write shape update with new logic
-  - re-write shape export with new logic
+  -  ̶r̶e̶-̶w̶r̶i̶t̶e̶ ̶s̶h̶a̶p̶e̶ ̶u̶p̶d̶a̶t̶e̶ ̶w̶i̶t̶h̶ ̶n̶e̶w̶ ̶l̶o̶g̶i̶c̶:̶
+    - r̶e̶-̶w̶r̶i̶t̶e̶ ̶h̶e̶r̶o̶ ̶u̶p̶d̶a̶t̶e̶
+    - r̶e̶-̶w̶r̶i̶t̶e̶ ̶c̶o̶m̶b̶o̶ ̶u̶p̶d̶a̶t̶e̶:
+      - r̶e̶m̶e̶d̶y̶ ̶w̶r̶i̶t̶e̶ ̶3̶+̶ ̶c̶o̶m̶b̶o̶ ̶u̶p̶d̶a̶t̶e̶ ̶(̶s̶e̶t̶_̶c̶o̶m̶b̶o̶_̶k̶e̶y̶s̶ ̶f̶u̶n̶c̶t̶i̶o̶n̶ ̶t̶o̶ ̶a̶c̶c̶o̶m̶o̶d̶a̶t̶e̶ ̶f̶o̶r̶ ̶d̶o̶w̶n̶s̶t̶r̶e̶a̶m̶ ̶c̶o̶m̶n̶b̶o̶s̶)̶
+    -  ̶r̶e̶-̶w̶r̶i̶t̶e̶ ̶i̶n̶b̶e̶t̶w̶e̶e̶n̶ ̶u̶p̶d̶a̶t̶e̶
+  - re-write shape export with new logic:
+  
+    - -̶ ̶c̶o̶m̶b̶i̶n̶e̶ ̶d̶e̶l̶t̶a̶ ̶d̶i̶f̶f̶e̶r̶e̶n̶c̶e̶s̶ ̶f̶r̶o̶m̶ ̶a̶r̶b̶i̶t̶r̶a̶r̶y̶ ̶n̶u̶m̶b̶e̶r̶ ̶o̶f̶ ̶m̶e̶s̶h̶e̶s̶
+    
+    - -̶ ̶e̶x̶p̶o̶r̶t̶ ̶t̶o̶ ̶a̶ ̶s̶p̶e̶c̶i̶f̶i̶c̶ ̶f̶o̶l̶d̶e̶r̶
+    - combine export methods
   - delete unnecessary code and re-factor classes carried over
 - filter the list on the left to only display hero shapes, re-sort alphabetically. Alternatively create a filtered list without values, like the one on the right but only with hero shapes, and different menu with the complete list with values.
+- explore quickset (setting the selected shape to 1 and everything else to 0)
 - explore other export options, like alembic
 - create a build function that would build a puppet based on selected shapes and their naming
   - while getting a dedicated button, this willl be covered by the new update logic. 
-- explore the possibility of updating multiple shapes at once based on naming
-  - while getting a dedicated button, this willl be covered by the new update logic. 
-- explore by state updates/quickset
-- explore freezing shapes
+-  ̶e̶x̶p̶l̶o̶r̶e̶ ̶t̶h̶e̶ ̶p̶o̶s̶s̶i̶b̶i̶l̶i̶t̶y̶ ̶o̶f̶ ̶u̶p̶d̶a̶t̶i̶n̶g̶ ̶m̶u̶l̶t̶i̶p̶l̶e̶ ̶s̶h̶a̶p̶e̶s̶ ̶a̶t̶ ̶o̶n̶c̶e̶ ̶b̶a̶s̶e̶d̶ ̶o̶n̶ ̶n̶a̶m̶i̶n̶g̶
+- explore by state updates
+- explore freezing shapes:
+  - Basically define back existing upstream shapes (?)
 - explore multi selection inside the UI List
 
-- extras like eye/teeth connect, jaw extract, keyline import, face set import and L-R split and combine
-- a transfer too based on a sparse alignment mesh and a layered joint system
-- pose editor for saving, nameing and mixing poses
+- extras like :
+  - eye/teeth connect 
+  - generate meniscus
+  - jaw extract 
+  - k̶e̶y̶l̶i̶n̶e̶ ̶i̶m̶p̶o̶r̶t̶ ̶
+  - f̶a̶c̶e̶ ̶s̶e̶t̶ ̶i̶m̶p̶o̶r̶t̶ ̶ 
+  - split
+  - combine
+  - live copy using geo nodes
+  - live relax using geo nodes and corrective smooth
+- a transfer tool based on a sparse alignment mesh and a layered joint system
+- pose editor for saving, naming and mixing poses
 - animation menu for importing and managing QC roms
 
 
