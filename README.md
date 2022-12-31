@@ -35,7 +35,7 @@ TODO:
 - filter the list on the left to only display hero shapes, re-sort alphabetically. Alternatively create a filtered list without values, like the one on the right but only with hero shapes, and different menu with the complete list with values.
 - explore quickset (setting the selected shape to 1 and everything else to 0)
 - explore other export options, like alembic
-- create a build function that would build a puppet based on selected shapes and their naming
+- create a build function that builds the shape network based on selected shapes and their naming
   - while getting a dedicated button, this willl be covered by the new update logic. 
 -  ̶e̶x̶p̶l̶o̶r̶e̶ ̶t̶h̶e̶ ̶p̶o̶s̶s̶i̶b̶i̶l̶i̶t̶y̶ ̶o̶f̶ ̶u̶p̶d̶a̶t̶i̶n̶g̶ ̶m̶u̶l̶t̶i̶p̶l̶e̶ ̶s̶h̶a̶p̶e̶s̶ ̶a̶t̶ ̶o̶n̶c̶e̶ ̶b̶a̶s̶e̶d̶ ̶o̶n̶ ̶n̶a̶m̶i̶n̶g̶
 - explore by state updates
