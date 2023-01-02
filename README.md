@@ -16,7 +16,7 @@ Some terminology:
 
 How it looks so far - 
 
-![Screenshot 2023-01-03 091557](https://user-images.githubusercontent.com/78473045/210274977-95488db7-2fec-44ef-bf4c-7b4d6557c543.png)
+![Screenshot 2023-01-03 091737](https://user-images.githubusercontent.com/78473045/210275277-25926f5b-16d5-4a71-bd5c-354d432b6e2a.png)
 
 TODO:
 - clean up/re write code to be more readable and organized as it's becoming a bit messy:
