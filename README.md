@@ -1,9 +1,5 @@
 
-Goal is a facial shape manager for Blender, for shapekey based facial rigs. One line at a time.
-
-So far I'm adding functions I'll need down the road. I also added a first, more or less functioning prototype.
-
-In the end it should handle correctives and inbetweens based on their naming, as well as have filtered UI lists, and handle import and export of shapes.
+Working on a facial shape manager for Blender, for shapekey based facial rigs. One function at a time.
 
 How it looks so far - 
 
