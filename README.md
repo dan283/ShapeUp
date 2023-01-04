@@ -5,6 +5,10 @@ So far I'm adding functions I'll need down the road. I also added a first, more 
 
 In the end it should handle correctives and inbetweens based on their naming, as well as have filtered UI lists, and handle import and export of shapes.
 
+How it looks so far - 
+
+![Screenshot 2023-01-04 095558](https://user-images.githubusercontent.com/78473045/210440537-3c1e0b6c-1065-43b3-8b41-1b4b7b19c2d1.png)
+
 Some terminology:
 - hero shapes: simple shape keys with no drivers. Examples: jawOpen, lipCornerPuller, browLowerer, eyesClosed
 - combination shapes/correctives/combos: shape keys that are driven by 2 or more hero shapes and are used as a corrective difference in deltas. Examples: jawOpen_lipCornerPuller, browLowerer_eyesClosed
@@ -14,10 +18,6 @@ Some terminology:
 ![2023-01-04 18-57-30 2023-01-04 18_58_07](https://user-images.githubusercontent.com/78473045/210493341-834d1948-ab3d-43c7-aeb3-bb4f15abfe36.gif)
 - puppet: a mesh, typically a head, with shape keys for the expressions.
 - FACS: Facial action coding system
-
-How it looks so far - 
-
-![Screenshot 2023-01-04 095558](https://user-images.githubusercontent.com/78473045/210440537-3c1e0b6c-1065-43b3-8b41-1b4b7b19c2d1.png)
 
 TODO:
 - clean up/re write code to be more readable and organized as it's becoming a bit messy:
