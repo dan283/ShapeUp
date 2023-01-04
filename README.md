@@ -14,7 +14,7 @@ Some terminology:
 - combination shapes/correctives/combos: shape keys that are driven by 2 or more hero shapes and are used as a corrective difference in deltas. Examples: jawOpen_lipCornerPuller, browLowerer_eyesClosed
 - inbetweens/inbetween shapes: shape keys that are driven by a hero shape and act as an inbetween corrective. Examples: jawOpen_10, eyesClosed_50
 - inbetween combos: a combination of inbetweens and combos. Examples: jawOpen_10_lipCornerPuller, eyesClosed_25_browLowerer_50
-- negative shapes - hero shapes ending with "N", to be the  at max at -1 value of the hero shape. eyeClosedN, lipFunnelerN
+- negative shapes - hero shapes ending with "N", to be at max at -1 value of the hero shape. eyeClosedN, lipFunnelerN
 ![2023-01-04 18-57-30 2023-01-04 18_58_07](https://user-images.githubusercontent.com/78473045/210493341-834d1948-ab3d-43c7-aeb3-bb4f15abfe36.gif)
 - puppet: a mesh, typically a head, with shape keys for the expressions.
 - FACS: Facial action coding system
