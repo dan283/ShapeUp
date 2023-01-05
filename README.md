@@ -150,7 +150,7 @@ Explore live setups for live blendshape connections and live relax -
 
 ![liveBlendshape](https://user-images.githubusercontent.com/78473045/210152813-fe2ffca1-45b8-44f8-ae6c-9140d43881d0.gif)
 
-Look who just discovered local space blendshapes for animated meshes or shotsculpting - 
+Blendshapes for animated meshes or shotsculpting - 
 
 ![shapekey_abc](https://user-images.githubusercontent.com/78473045/210639444-21e62837-ab66-46d4-a4b4-8f23a030f51d.gif)
 
