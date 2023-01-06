@@ -30,6 +30,7 @@ TODO:
     - c̶o̶m̶b̶i̶n̶e̶ ̶e̶x̶p̶o̶r̶t̶ ̶m̶e̶t̶h̶o̶d̶s̶
   - delete unnecessary code and re-factor classes carried over
 - f̶i̶l̶t̶e̶r̶ ̶t̶h̶e̶ ̶l̶i̶s̶t̶ ̶o̶n̶ ̶t̶h̶e̶ ̶l̶e̶f̶t̶ ̶t̶o̶ ̶o̶n̶l̶y̶ ̶d̶i̶s̶p̶l̶a̶y̶ ̶h̶e̶r̶o̶ ̶s̶h̶a̶p̶e̶s̶,̶ ̶r̶e̶-̶s̶o̶r̶t̶ ̶a̶l̶p̶h̶a̶b̶e̶t̶i̶c̶a̶l̶l̶y̶.̶ ̶A̶l̶t̶e̶r̶n̶a̶t̶i̶v̶e̶l̶y̶ ̶c̶r̶e̶a̶t̶e̶ ̶a̶ ̶f̶i̶l̶t̶e̶r̶e̶d̶ ̶l̶i̶s̶t̶ ̶w̶i̶t̶h̶o̶u̶t̶ ̶v̶a̶l̶u̶e̶s̶,̶ ̶l̶i̶k̶e̶ ̶t̶h̶e̶ ̶o̶n̶e̶ ̶o̶n̶ ̶t̶h̶e̶ ̶r̶i̶g̶h̶t̶ ̶b̶u̶t̶ ̶o̶n̶l̶y̶ ̶w̶i̶t̶h̶ ̶h̶e̶r̶o̶ ̶s̶h̶a̶p̶e̶s̶,̶ ̶a̶n̶d̶ ̶d̶i̶f̶f̶e̶r̶e̶n̶t̶ ̶m̶e̶n̶u̶ ̶w̶i̶t̶h̶ ̶t̶h̶e̶ ̶c̶o̶m̶p̶l̶e̶t̶e̶ ̶l̶i̶s̶t̶ ̶w̶i̶t̶h̶ ̶v̶a̶l̶u̶e̶s̶.̶
+
 ![shapeup01](https://user-images.githubusercontent.com/78473045/210918856-be2fe05d-e831-4429-96a8-45ca8ea02e98.gif)
 
 - explore quickset (setting the selected shape to 1 and everything else to 0)
