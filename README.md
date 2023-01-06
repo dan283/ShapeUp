@@ -12,7 +12,7 @@ Some terminology:
 - inbetween combos: a combination of inbetweens and combos. Examples: jawOpen_10_lipCornerPuller, eyesClosed_25_browLowerer_50
 - negative shapes - hero shapes ending with "N", to be at max at -1 value of the hero shape. eyeClosedN, lipFunnelerN
 ![2023-01-04 18-57-30 2023-01-04 18_58_07](https://user-images.githubusercontent.com/78473045/210493341-834d1948-ab3d-43c7-aeb3-bb4f15abfe36.gif)
-- puppet: a mesh, typically a head, with shape keys for the expressions.
+- mimic: a mesh, typically a head, with shape keys for the expressions.
 - FACS: Facial action coding system
 
 TODO:
