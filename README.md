@@ -3,7 +3,7 @@ Working on a facial shape manager for Blender, for shapekey based facial rigs. O
 
 How it looks so far - 
 
-![Screenshot 2023-01-06 104702](https://user-images.githubusercontent.com/78473045/210886332-029a9666-8870-4259-9f12-756937fbc8fa.png)
+![Screenshot 2023-01-06 154755](https://user-images.githubusercontent.com/78473045/210919770-72034cb4-8eb0-4e40-a211-8a2b8617964a.png)
 
 Some terminology:
 - hero shapes: simple shape keys with no drivers. Examples: jawOpen, lipCornerPuller, browLowerer, eyesClosed
