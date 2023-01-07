@@ -6,3 +6,4 @@ Ideas for extras.
 - grid align working meshes
 - convert vert groups into face sets
 - extract jaw shape deltas for rigged jaws
+- live relax setup and live blendshapes using geo nodes and either corrective smooth or delta blur
