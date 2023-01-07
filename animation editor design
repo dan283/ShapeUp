@@ -1,1 +1,6 @@
-A list for animation workout roms. Discuss and design functionality.
+Another template list is needed to manage QC animations.
+
+-    Need a way to import a couple blendshape animations from maya.
+-    Needs to work automatically on both split and combined, as either split and combined.
+-    Needs options for importing, deleting or adding a new animation rom
+
