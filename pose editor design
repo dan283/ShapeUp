@@ -3,4 +3,6 @@ Pose editor, sub section of the shape editor. Stores and sets poses based on cur
 - A UI list with names of stored poses.
 - A button for adding a pose.
 - A button for removing a pose.
+- A button to create a pose from a mix.
 - A slider to blend the pose to neutral.
+- A bool checkbox for quickset
