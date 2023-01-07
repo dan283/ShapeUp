@@ -11,7 +11,7 @@ Some terminology:
 - inbetweens/inbetween shapes: shape keys that are driven by a hero shape and act as an inbetween corrective. Examples: jawOpen_10, eyesClosed_50
 - inbetween combos: a combination of inbetweens and combos. Examples: jawOpen_10_lipCornerPuller, eyesClosed_25_browLowerer_50
 - negative shapes - hero shapes ending with "N", to be at max at -1 value of the hero shape. eyeClosedN, lipFunnelerN
-![2023-01-04 18-57-30 2023-01-04 18_58_07](https://user-images.githubusercontent.com/78473045/210493341-834d1948-ab3d-43c7-aeb3-bb4f15abfe36.gif)
+![2023-01-07 20-21-59 2023-01-07 20_22_59](https://user-images.githubusercontent.com/78473045/211139203-a56c54e6-b7f4-4b89-b072-b4e2fa69a3cc.gif)
 - mimic: a mesh, typically a head, with shape keys for the expressions.
 - FACS: Facial action coding system
 
