@@ -3,3 +3,6 @@ Ideas for extras.
 - import and apply keyline texture
 - create and apply stretch map. (UV stretch overlay kindof does the same, but geo nodes might be way nicer)
 - import eyes and teeth
+- grid align working meshes
+- convert vert groups into face sets
+- extract jaw shape deltas for rigged jaws
