@@ -1,13 +1,11 @@
-Transfers shape keys regardless of form and topology, within reason.
+A function to transfer facial shape keys from one mesh to another, irregardless of topology.
 
-- a fixed sparse proxy mesh with eyes, mouth, nasolabial and ears somewhat defined
-- bone per vertex
-- auto weight
-- snap
-- wrap
-- export shape by shape
-- import & build
+Need:
 
-Explore modal operators and a simplified gui. Fool proof but not junior proof would be the goal.
+-    A hard coded super low resolution mesh suitable for a wide variety of cases (optional).
+-    A layered armature:
+     -   first layer has single bones for mouth, eyes, nose, ears, a couple for the cranium, jawline and chin.
+     -   second layer has bone chains for eyelids, lips, jawline and ears.
+-    A highres transfer mesh with intact facial.
 
-This concept could be used for a dedicated live relax tool.
+Create a function to adjust the camera, and guide the user in snapping the joints to the target mesh using modal operators. Once deformed, use a shrinkwrap to be close Using surface deform, one by one, export all the shapes. Re-import and build mimic.
