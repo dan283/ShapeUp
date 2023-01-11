@@ -33,11 +33,13 @@ TODO:
 
 ![shapeup01](https://user-images.githubusercontent.com/78473045/210918856-be2fe05d-e831-4429-96a8-45ca8ea02e98.gif)
 
-- change update logic so that everything is based on corrective deltas
+- c̶h̶a̶n̶g̶e̶ ̶u̶p̶d̶a̶t̶e̶ ̶l̶o̶g̶i̶c̶ ̶s̶o̶ ̶t̶h̶a̶t̶ ̶e̶v̶e̶r̶y̶t̶h̶i̶n̶g̶ ̶i̶s̶ ̶b̶a̶s̶e̶d̶ ̶o̶n̶ ̶c̶o̶r̶r̶e̶c̶t̶i̶v̶e̶ ̶d̶e̶l̶t̶a̶s̶
 - add enum for expression selection
+![shapeup_expressions](https://user-images.githubusercontent.com/78473045/211720255-a03fa9a3-76df-4ed1-a3a5-36a281b6443e.gif)
+
 - explore quickset (setting the selected shape to 1 and everything else to 0)
 - explore other export options, like alembic
-- negative shape update (abs values for drivers as a shortcut?)
+- n̶e̶g̶a̶t̶i̶v̶e̶ ̶s̶h̶a̶p̶e̶ ̶u̶p̶d̶a̶t̶e̶
 - create a build function that would build a puppet based on selected shapes and their naming
   - while getting a dedicated button, this willl be covered by the new update logic. 
 -  ̶e̶x̶p̶l̶o̶r̶e̶ ̶t̶h̶e̶ ̶p̶o̶s̶s̶i̶b̶i̶l̶i̶t̶y̶ ̶o̶f̶ ̶u̶p̶d̶a̶t̶i̶n̶g̶ ̶m̶u̶l̶t̶i̶p̶l̶e̶ ̶s̶h̶a̶p̶e̶s̶ ̶a̶t̶ ̶o̶n̶c̶e̶ ̶b̶a̶s̶e̶d̶ ̶o̶n̶ ̶n̶a̶m̶i̶n̶g̶
