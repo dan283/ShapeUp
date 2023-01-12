@@ -34,7 +34,7 @@ TODO:
 ![shapeup01](https://user-images.githubusercontent.com/78473045/210918856-be2fe05d-e831-4429-96a8-45ca8ea02e98.gif)
 
 - c̶h̶a̶n̶g̶e̶ ̶u̶p̶d̶a̶t̶e̶ ̶l̶o̶g̶i̶c̶ ̶s̶o̶ ̶t̶h̶a̶t̶ ̶e̶v̶e̶r̶y̶t̶h̶i̶n̶g̶ ̶i̶s̶ ̶b̶a̶s̶e̶d̶ ̶o̶n̶ ̶c̶o̶r̶r̶e̶c̶t̶i̶v̶e̶ ̶d̶e̶l̶t̶a̶s̶
-- add enum for expression selection
+- a̶d̶d̶ ̶e̶n̶u̶m̶ ̶f̶o̶r̶ ̶e̶x̶p̶r̶e̶s̶s̶i̶o̶n̶ ̶s̶e̶l̶e̶c̶t̶i̶o̶n̶
 
 ![shapeup_expressions](https://user-images.githubusercontent.com/78473045/211720255-a03fa9a3-76df-4ed1-a3a5-36a281b6443e.gif)
 
