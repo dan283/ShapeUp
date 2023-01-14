@@ -2,7 +2,8 @@
 Introducing ShapeUp - the ultimate shape key management tool for Blender. 
 
 With ShapeUp, you can easily edit, transfer, export, and import shape keys for your FACS-based facial rigs. This powerful addon streamlines the shape key workflow, saving you time and effort while giving you more control over your animation projects. Whether you're a professional animator or a hobbyist, ShapeUp is an essential tool for any Blender user looking to take their facial rigs to the next level.
-![Screenshot 2023-01-15 113522](https://user-images.githubusercontent.com/78473045/212500107-cac25917-a816-40f0-ba1b-f36c365f6c04.png)
+
+![Screenshot 2023-01-15 113638](https://user-images.githubusercontent.com/78473045/212500147-8b72ce72-b012-42d0-9ff0-3ec2c3225347.png)
 
 Some terminology:
 - hero shapes: simple shape keys with no drivers. Examples: jawOpen, lipCornerPuller, browLowerer, eyesClosed
