@@ -38,7 +38,7 @@ TODO:
 
 ![shapeup_expressions](https://user-images.githubusercontent.com/78473045/211720255-a03fa9a3-76df-4ed1-a3a5-36a281b6443e.gif)
 
-- explore quickset (setting the selected shape to 1 and everything else to 0)
+- e̶x̶p̶l̶o̶r̶e̶ ̶q̶u̶i̶c̶k̶s̶e̶t̶ ̶(̶s̶e̶t̶t̶i̶n̶g̶ ̶t̶h̶e̶ ̶s̶e̶l̶e̶c̶t̶e̶d̶ ̶s̶h̶a̶p̶e̶ ̶t̶o̶ ̶1̶ ̶a̶n̶d̶ ̶e̶v̶e̶r̶y̶t̶h̶i̶n̶g̶ ̶e̶l̶s̶e̶ ̶t̶o̶ ̶0̶)̶
 - explore other export options, like alembic
 - n̶e̶g̶a̶t̶i̶v̶e̶ ̶s̶h̶a̶p̶e̶ ̶u̶p̶d̶a̶t̶e̶
 - create a build function that would build a puppet based on selected shapes and their naming
