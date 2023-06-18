@@ -73,6 +73,13 @@ Blendshapes for animated meshes or shotsculpting -
 
 ![shapekey_abc](https://user-images.githubusercontent.com/78473045/210639444-21e62837-ab66-46d4-a4b4-8f23a030f51d.gif)
 
+Adjustable sticky lips and semi procedural meniscus setups - 
+
+no sticky lips
+![lipsticky_03off](https://github.com/dan283/ShapeUp/assets/78473045/72ed2622-f767-49a0-a4ac-f0aa3b17efce)
+sticky lips
+![lipsticky_03](https://github.com/dan283/ShapeUp/assets/78473045/7403dbca-75e8-491d-8236-8bfed819c2cf)
+
 
 
 
