@@ -77,7 +77,8 @@ Adjustable sticky lips and semi procedural meniscus setups -
 
 ![lipsticky_08](https://github.com/dan283/ShapeUp/assets/78473045/12815b51-1cb8-45bb-8f4a-c08058d7b51b)
 
-![meniscus07](https://github.com/dan283/ShapeUp/assets/78473045/59a3601a-e751-4241-b6b7-c72e8b7dde7b)
+![meniscus08](https://github.com/dan283/ShapeUp/assets/78473045/c8adcd08-142e-415d-be61-b58c2debb95e)
+
 
 
 
