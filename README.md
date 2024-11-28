@@ -81,6 +81,11 @@ Adjustable sticky lips and semi procedural meniscus setups -
 
 ![meniscus12](https://github.com/dan283/ShapeUp/assets/78473045/8c62a9d3-098d-4fb6-8bd4-58e2a064ce45)
 
+Node based 4D scan stabilizing
+
+![rotation_bef3](https://github.com/user-attachments/assets/19ae27e3-a582-496c-a602-ba60639abdfb)
+
+![rotation_aft5](https://github.com/user-attachments/assets/f0dc5e5b-a808-4158-97b4-77136fba94f1)
 
 
 
